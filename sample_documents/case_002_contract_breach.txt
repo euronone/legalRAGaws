@@ -1,0 +1,185 @@
+IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+ORDINARY ORIGINAL CIVIL JURISDICTION
+
+COMMERCIAL SUIT NO. 587 OF 2022
+
+Date of Judgment: 28th November, 2024
+
+M/s. Pinnacle Industries Pvt. Ltd.
+(A company incorporated under the Companies Act, 1956,
+having its registered office at Plot No. 45, MIDC,
+Andheri East, Mumbai - 400093)                          ... Plaintiff
+
+                         Versus
+
+M/s. Zenith Solutions Ltd.
+(A company incorporated under the Companies Act, 2013,
+having its registered office at Tower B, 5th Floor,
+Bandra Kurla Complex, Mumbai - 400051)                  ... Defendant
+
+CORAM:
+HON'BLE MRS. JUSTICE DEEPIKA RAGHUNATH
+
+Appearance:
+For the Plaintiff   : Mr. Kiran Javdekar, Senior Advocate instructed by
+                      M/s. Deshmukh & Associates
+For the Defendant   : Mr. Rohan Mahajan, Advocate instructed by
+                      M/s. Kapoor Legal LLP
+
+------------------------------------------------------------------------
+                              JUDGMENT
+------------------------------------------------------------------------
+
+1.  The Plaintiff, M/s. Pinnacle Industries Pvt. Ltd. (hereinafter "Pinnacle"),
+    has instituted the present commercial suit against M/s. Zenith Solutions
+    Ltd. (hereinafter "Zenith") seeking damages in the sum of Rs. 4,75,00,000/-
+    (Rupees Four Crores Seventy-Five Lakhs Only) on account of breach of a
+    Supply Agreement dated 1st April, 2021 (hereinafter "the Agreement").
+
+FACTS OF THE CASE:
+
+2.  Pinnacle is engaged in the manufacture and supply of precision automotive
+    components. Zenith is an automobile ancillary company that supplies
+    assembled modules to major Original Equipment Manufacturers (OEMs).
+
+3.  On 1st April, 2021, the parties entered into the Agreement whereby
+    Pinnacle agreed to supply 50,000 units of high-precision engine
+    mounting brackets (Part No. PMB-4421) to Zenith at a unit price of
+    Rs. 1,850/- per unit, with delivery to be completed in four quarterly
+    installments of 12,500 units each, commencing from 1st July, 2021.
+
+4.  Pinnacle duly supplied the first two installments (25,000 units) within
+    the stipulated time. However, on 15th January, 2022, Zenith addressed
+    a letter to Pinnacle (Exhibit P-5) purporting to terminate the
+    Agreement on grounds of alleged quality deficiency and non-conformance
+    with specifications.
+
+5.  Pinnacle contends that the termination was wrongful and without basis.
+    The remaining 25,000 units were ready for dispatch, and Pinnacle had
+    invested Rs. 1,25,00,000/- in raw materials and tooling for the
+    remaining order. As a consequence of the wrongful repudiation, Pinnacle
+    claims the following heads of damages:
+
+    (a) Loss of profit on undelivered units:        Rs. 1,87,50,000/-
+    (b) Cost of raw materials (wasted):             Rs. 1,25,00,000/-
+    (c) Loss of goodwill and business reputation:   Rs.   50,00,000/-
+    (d) Interest on blocked capital:                Rs.   12,50,000/-
+                                            Total: Rs. 4,75,00,000/-
+
+ARGUMENTS ON BEHALF OF THE PLAINTIFF:
+
+6.  Learned Senior Counsel for the Plaintiff submitted that the termination
+    of the Agreement by Zenith was without lawful cause and constitutes a
+    breach of contract under Section 73 of the Indian Contract Act, 1872.
+    It was argued that when a party to a contract refuses to perform its
+    promise, the aggrieved party is entitled to compensation for any loss
+    or damage caused thereby.
+
+7.  Reliance was placed on Section 39 of the Indian Contract Act, 1872,
+    which provides that when a party to a contract has refused to perform
+    or disabled himself from performing his promise in its entirety, the
+    promisee may put an end to the contract unless he has signified his
+    acquiescence in its continuance.
+
+8.  Reference was made to the decision in ONGC Ltd. v. Saw Pipes Ltd.
+    (2003) 5 SCC 705, wherein the Hon'ble Supreme Court held that
+    compensation for breach of contract must be reasonable and must
+    naturally arise in the usual course of things from such breach.
+
+9.  The Plaintiff produced Quality Inspection Reports (Exhibits P-7 to
+    P-12) from an independent NABL-accredited laboratory confirming that
+    all supplied units conformed to IS 2062:2011 and the agreed technical
+    specifications. Additionally, the Plaintiff relied upon email
+    correspondence (Exhibits P-13 to P-18) showing that Zenith had
+    accepted and used the first two installments without any complaint.
+
+ARGUMENTS ON BEHALF OF THE DEFENDANT:
+
+10. Learned Counsel for the Defendant submitted that Zenith was entitled
+    to terminate the Agreement under Clause 12.3 thereof, which provided
+    for termination in the event of non-conformance with quality
+    standards. It was argued that internal quality audits of Zenith
+    (Exhibit D-2) revealed micro-fractures in 3% of the supplied brackets,
+    exceeding the acceptable defect rate of 0.5%.
+
+11. It was further contended that under Section 16 of the Sale of Goods
+    Act, 1930, there is an implied condition as to merchantability, and
+    the goods supplied failed to meet this condition. Reliance was placed
+    on Steel Authority of India Ltd. v. Gupta Brother Steel Tubes Ltd.
+    (2009) 10 SCC 63.
+
+12. The Defendant also argued that the damages claimed are excessive,
+    speculative, and do not satisfy the test of remoteness laid down in
+    Hadley v. Baxendale (1854) 9 Ex. 341, as adopted in Indian
+    jurisprudence through Murlidhar Chiranjilal v. Harishchandra
+    Dwarkadas, AIR 1962 SC 366.
+
+EVIDENCE AND ANALYSIS:
+
+13. This Court has carefully examined the documentary and oral evidence
+    on record. The Quality Inspection Reports from the NABL-accredited
+    laboratory (Exhibits P-7 to P-12) are contemporaneous and credible
+    documents. They conclusively establish that the brackets supplied by
+    Pinnacle were within the specified tolerance levels.
+
+14. The internal audit report of Zenith (Exhibit D-2) was prepared
+    unilaterally without affording Pinnacle an opportunity of joint
+    inspection as mandated under Clause 8.2 of the Agreement. This
+    non-compliance with the contractual procedure renders the audit
+    report unreliable. Reference is made to Indian Oil Corporation Ltd.
+    v. M/s. Royal Petroleum (2018) SCC OnLine Bom 745.
+
+15. Furthermore, this Court notes that under Section 41 of the Indian
+    Contract Act, 1872, when a party accepts performance in part, and
+    later seeks to repudiate the entire contract, the burden lies on
+    the repudiating party to establish that the breach goes to the root
+    of the contract. Zenith accepted and consumed 25,000 units without
+    protest, which strongly negates their subsequent claim of quality
+    deficiency.
+
+16. As regards the quantum of damages, this Court applies the principle
+    under Section 73 of the Indian Contract Act, 1872. The loss of
+    profit on undelivered units and the cost of raw materials are direct
+    and natural consequences of the breach and are adequately proved.
+    However, the claims for loss of goodwill and interest on blocked
+    capital are speculative and not supported by sufficient evidence.
+
+JUDGMENT AND ORDER:
+
+17. In view of the foregoing analysis, this Court holds that:
+
+    (a) The termination of the Agreement dated 1st April, 2021, by the
+        Defendant was wrongful and constitutes a breach of contract.
+
+    (b) The Defendant is liable to compensate the Plaintiff for damages
+        naturally arising from the breach.
+
+18. The Defendant is directed to pay to the Plaintiff the following:
+
+    (i)   Loss of profit on undelivered goods:  Rs. 1,87,50,000/-
+    (ii)  Cost of wasted raw materials:         Rs. 1,25,00,000/-
+                                        Total: Rs. 3,12,50,000/-
+
+    (iii) Interest at the rate of 9% per annum on the aforesaid sum from
+          the date of breach (15th January, 2022) until the date of
+          realization.
+
+    (iv)  The claim for loss of goodwill (Rs. 50,00,000/-) and interest
+          on blocked capital (Rs. 12,50,000/-) is disallowed for want of
+          sufficient evidence.
+
+    (v)   Costs of the suit assessed at Rs. 3,00,000/- (Rupees Three
+          Lakhs Only) shall be borne by the Defendant.
+
+19. The Defendant shall make the payment within 90 days from the date of
+    this judgment, failing which the Plaintiff shall be entitled to
+    execute the decree in accordance with law.
+
+20. Decree sheet to be drawn up accordingly.
+
+                                              Sd/-
+                                (JUSTICE DEEPIKA RAGHUNATH)
+                             HIGH COURT OF JUDICATURE AT BOMBAY
+
+Dated: 28th November, 2024
+Place: Mumbai

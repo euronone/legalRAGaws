@@ -1,0 +1,212 @@
+BEFORE THE NATIONAL CONSUMER DISPUTES REDRESSAL COMMISSION
+NEW DELHI
+
+CONSUMER COMPLAINT NO. 1876 OF 2023
+
+Date of Order: 19th February, 2025
+
+IN THE MATTER OF:
+
+Shri Arun Bhatia,
+R/o Flat No. 1204, Tower C, Sapphire Residency,
+Sector 44, Gurugram, Haryana - 122003                   ... Complainant
+
+                         Versus
+
+1. M/s. UltraCool Appliances India Pvt. Ltd.,
+   Regd. Office: Plot No. 112, Phase-II, Noida
+   Special Economic Zone, Noida, U.P. - 201305          ... Opposite Party No. 1
+
+2. M/s. HomeWorld Electronics Retail Ltd.,
+   Shop No. G-23, Ambience Mall,
+   Gurugram, Haryana - 122002                           ... Opposite Party No. 2
+
+CORAM:
+HON'BLE MR. JUSTICE ASHOK KUMAR PANDEY, PRESIDENT
+HON'BLE MRS. MEMBER REKHA GUPTA
+HON'BLE MR. MEMBER SIDDHARTH JHA
+
+Appearance:
+For the Complainant           : Mr. Nikhil Sachdeva, Advocate
+For the Opposite Party No. 1  : Mr. Amit Kapoor, Advocate
+For the Opposite Party No. 2  : Mr. Rahul Mehra, Advocate
+
+------------------------------------------------------------------------
+                               ORDER
+------------------------------------------------------------------------
+
+1.  The present complaint has been filed under Section 35 read with
+    Section 58(1)(a)(i) of the Consumer Protection Act, 2019, by the
+    Complainant alleging deficiency in service and supply of defective
+    goods by the Opposite Parties.
+
+FACTS OF THE COMPLAINT:
+
+2.  The Complainant purchased a "UltraCool Royal 585L Side-by-Side
+    Refrigerator" (Model No. UCR-585SBS, Serial No. UC2022-78453) from
+    Opposite Party No. 2 (the authorized retailer) on 10th January, 2023,
+    for a total consideration of Rs. 1,12,000/- (Rupees One Lakh Twelve
+    Thousand Only) inclusive of GST, as evidenced by Tax Invoice No.
+    HW/GGN/2023/04521 (Exhibit C-1). The product was manufactured by
+    Opposite Party No. 1 and carried a comprehensive warranty of two
+    years.
+
+3.  Within three months of purchase, the refrigerator developed the
+    following defects:
+    (a) The compressor began emitting abnormal noise and the cooling
+        efficiency deteriorated significantly.
+    (b) The digital display panel malfunctioned, displaying erroneous
+        temperature readings.
+    (c) The ice-maker unit ceased functioning entirely.
+
+4.  The Complainant lodged a complaint with the authorized service centre
+    of Opposite Party No. 1 on 18th April, 2023 (Service Request No.
+    SR-2023-GGN-7842). A service engineer visited on 25th April, 2023,
+    and replaced the digital display board. However, the compressor
+    issue and ice-maker malfunction were not addressed.
+
+5.  Between May 2023 and September 2023, the Complainant made five
+    further complaints (Exhibits C-4 to C-8). Each time, temporary
+    repairs were attempted, but the fundamental defects persisted. On
+    the sixth complaint in October 2023, the service centre informed the
+    Complainant that the compressor required complete replacement, which
+    would take 45 to 60 days as the part was "not available in India."
+
+6.  The Complainant sent a legal notice dated 15th November, 2023
+    (Exhibit C-9) to both Opposite Parties demanding replacement of
+    the refrigerator or a full refund along with compensation. Opposite
+    Party No. 1 replied on 5th December, 2023 (Exhibit C-10) offering
+    only a compressor replacement and denying any obligation to replace
+    the entire unit.
+
+ARGUMENTS ON BEHALF OF THE COMPLAINANT:
+
+7.  Learned Counsel for the Complainant submitted that the refrigerator
+    purchased is a "defective good" within the meaning of Section 2(10)
+    of the Consumer Protection Act, 2019, as it suffers from defects in
+    manufacturing that render it unfit for the purpose for which it was
+    purchased.
+
+8.  It was argued that under Section 2(11) of the Act, "deficiency" means
+    any fault, imperfection, shortcoming, or inadequacy in the quality,
+    nature, and manner of performance required to be maintained by law.
+    The failure to provide effective after-sales service and repair within
+    a reasonable time constitutes deficiency in service.
+
+9.  Reliance was placed on the following precedents:
+    (a) Maruti Udyog Ltd. v. Susheel Kumar Gabgotra, (2006) 4 CPJ 1
+        (NC), wherein it was held that repeated repairs to a new product
+        amount to a manufacturing defect and the consumer is entitled to
+        replacement.
+    (b) General Motors India Pvt. Ltd. v. Ashok Ramnik Lal Shah, 2015
+        SCC OnLine NCDRC 1342, wherein the Hon'ble NCDRC directed
+        replacement of a vehicle suffering from persistent defects.
+    (c) Samsung India Electronics Pvt. Ltd. v. Neerja Monga, 2017 SCC
+        OnLine NCDRC 493, wherein compensation was awarded for deficiency
+        in after-sales service.
+
+10. The Complainant further submitted that under Section 38 of the
+    Consumer Protection Act, 2019, the Commission has wide powers to
+    grant relief including replacement, refund, and compensation for
+    mental agony and harassment.
+
+ARGUMENTS ON BEHALF OF OPPOSITE PARTIES:
+
+11. Learned Counsel for Opposite Party No. 1 (the manufacturer) contended
+    that the product was thoroughly tested before dispatch and bore the
+    Bureau of Indian Standards (BIS) certification (IS 1476:2018). It was
+    argued that the defects arose due to voltage fluctuations at the
+    Complainant's residence, which is an external factor beyond the
+    manufacturer's control. The warranty terms (Exhibit OP1-3) expressly
+    excluded damage caused by voltage fluctuations.
+
+12. Learned Counsel for Opposite Party No. 2 (the retailer) submitted
+    that the retailer's role was limited to the sale of the product and
+    that liability for defects in the product rests solely with the
+    manufacturer. Reference was made to Section 2(34)(ii) of the
+    Consumer Protection Act, 2019.
+
+ANALYSIS AND FINDINGS:
+
+13. This Commission has carefully considered the submissions and the
+    documentary evidence on record. The contention that the defects were
+    caused by voltage fluctuations is not substantiated. The service
+    reports (Exhibits C-4 to C-8) prepared by the manufacturer's own
+    authorized service engineers do not record any finding of voltage-
+    related damage. On the contrary, Service Report dated 25th April,
+    2023 (Exhibit C-4) specifically notes "manufacturing defect in
+    compressor assembly" as the probable cause.
+
+14. The claim that the product was BIS certified does not absolve the
+    manufacturer of liability for individual unit defects. BIS
+    certification pertains to type approval and does not guarantee that
+    every unit is free from defects. Reference is made to Tata Motors
+    Ltd. v. Rajesh Kumar Gupta, 2019 SCC OnLine NCDRC 89.
+
+15. As regards Opposite Party No. 2, while the retailer is primarily an
+    intermediary, under Section 2(34) of the Consumer Protection Act,
+    2019, a "product seller" includes a person who, in the course of
+    business, imports, sells, distributes, or otherwise places the
+    product for commercial purposes. Opposite Party No. 2 is therefore
+    jointly and severally liable for the defective product sold to the
+    Complainant.
+
+16. The fact that six service visits over a period of six months failed
+    to rectify the defects establishes beyond doubt that the product
+    suffers from an inherent manufacturing defect. The Complainant has
+    been deprived of the use of a premium appliance for which he paid
+    Rs. 1,12,000/-. This constitutes both supply of defective goods and
+    deficiency in service within the meaning of the Consumer Protection
+    Act, 2019.
+
+ORDER:
+
+17. In view of the above findings, the complaint is allowed and the
+    following directions are issued:
+
+    (a) Opposite Party No. 1 (the manufacturer) is directed to replace
+        the defective refrigerator with a brand new unit of the same
+        model and specifications, or the nearest equivalent model if the
+        original model is discontinued, within 30 days from the date of
+        this order. In the event of failure to replace, Opposite Party
+        No. 1 shall refund the full purchase price of Rs. 1,12,000/-
+        with interest at 9% per annum from the date of purchase.
+
+    (b) Opposite Party No. 1 shall pay compensation of Rs. 2,00,000/-
+        (Rupees Two Lakhs Only) to the Complainant towards mental agony,
+        harassment, and inconvenience suffered on account of the
+        defective product and deficient after-sales service.
+
+    (c) Opposite Party No. 1 shall pay Rs. 50,000/- (Rupees Fifty
+        Thousand Only) towards litigation costs.
+
+    (d) Opposite Party No. 2 shall be jointly and severally liable
+        for the directions at (a) above in the event of default by
+        Opposite Party No. 1.
+
+    (e) The above payments and replacement shall be completed within
+        45 days from the date of this order, failing which the amounts
+        shall carry additional interest at the rate of 12% per annum.
+
+    (f) The Complainant shall return the defective refrigerator to
+        Opposite Party No. 1 at the time of receiving the replacement
+        unit, with the collection and logistics to be arranged by
+        Opposite Party No. 1 at its own cost.
+
+                                              Sd/-
+                               (JUSTICE ASHOK KUMAR PANDEY)
+                                         President
+
+                                              Sd/-
+                                      (REKHA GUPTA)
+                                         Member
+
+                                              Sd/-
+                                     (SIDDHARTH JHA)
+                                         Member
+
+                   National Consumer Disputes Redressal Commission
+                                       New Delhi
+
+Dated: 19th February, 2025
+Place: New Delhi
